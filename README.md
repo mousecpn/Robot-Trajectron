@@ -35,4 +35,6 @@ $ python evalute.py --batch_size 256 --conf config/test_config.json --data_path 
 $ python visualization.py --conf config/test_config.json --data_path /path/to/dataset --checkpoint /path/to/checkpoint
 ```
 
+### Shared Control
+Shared control code will be available soon.
 
