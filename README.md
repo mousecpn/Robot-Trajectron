@@ -36,5 +36,6 @@ $ python visualization.py --conf config/test_config.json --data_path /path/to/da
 ```
 
 ### Shared Control
-Shared control code will be available soon.
+
+The code is in https://github.com/mousecpn/RT_ws.git
 
