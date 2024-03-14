@@ -1,6 +1,12 @@
 # Robot-Trajectron
 
-The official implementation of Robot Trajectron.
+The official implementation of Robot Trajectron, which is accepted by ICRA2024: https://arxiv.org/pdf/2402.02499.pdf
+
+![image](https://github.com/mousecpn/Robot-Trajectron/assets/46233799/c07bf977-ab2d-438f-8187-898d5efacd13)
+
+
+![2024-03-15 051537 (1)](https://github.com/mousecpn/Robot-Trajectron/assets/46233799/444afdf1-c5a9-4ccb-9894-480b3a00141e)
+
 
 ### Environment
 
@@ -38,4 +44,6 @@ $ python visualization.py --conf config/test_config.json --data_path /path/to/da
 ### Shared Control
 
 The code is in https://github.com/mousecpn/RT_ws.git
+
+
 
