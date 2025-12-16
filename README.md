@@ -25,7 +25,7 @@ The official implementation of Robot Trajectron, which is accepted by ICRA2024: 
  - CUDA==11.7
  - torchvision==0.15.1
 
-### Dataset
+### 📊 Dataset
 
 Traj100k: https://github.com/mousecpn/Traj100k-Dataset.git
 
@@ -40,12 +40,12 @@ $ python main.py --eval_every 10 --vis_every 10 --preprocess_workers 0 --batch_s
 $ python evalute.py --batch_size 256 --conf config/test_config.json --data_path /path/to/dataset --checkpoint /path/to/checkpoint
 ```
 
-### Visualization
+### 👀 Visualization
 ```
 $ python visualization.py --conf config/test_config.json --data_path /path/to/dataset --checkpoint /path/to/checkpoint
 ```
 
-### Shared Control
+### 🕹️ Shared Control
 
 The code is in https://github.com/mousecpn/RT_ws.git
 
