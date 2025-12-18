@@ -9,6 +9,12 @@ The official implementation of Robot Trajectron, which is accepted by ICRA2024: 
 
 ![image](https://github.com/mousecpn/Robot-Trajectron/assets/46233799/c07bf977-ab2d-438f-8187-898d5efacd13)
 
+
+### 🤖 Demo
+
+https://github.com/user-attachments/assets/3e291beb-4214-4b1d-b2a2-869f28946b4f
+
+
 ![mnggiflab-compressed-demo_RT (1) (1)](https://github.com/mousecpn/Robot-Trajectron/assets/46233799/def7e71b-f0a4-45d4-b268-c9d327c78881)
 
 
