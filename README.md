@@ -1,4 +1,4 @@
-<img width="613" height="486" alt="image" src="https://github.com/user-attachments/assets/ab369dd8-b8e7-4318-a95c-d872acddf0f0" /># Robot-Trajectron
+# Robot-Trajectron
 
 The official implementation of Robot Trajectron, which is accepted by ICRA2024: https://arxiv.org/pdf/2402.02499.pdf
 
