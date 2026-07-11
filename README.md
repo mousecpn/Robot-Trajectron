@@ -1,10 +1,11 @@
-# Robot-Trajectron
+<img width="613" height="486" alt="image" src="https://github.com/user-attachments/assets/ab369dd8-b8e7-4318-a95c-d872acddf0f0" /># Robot-Trajectron
 
 The official implementation of Robot Trajectron, which is accepted by ICRA2024: https://arxiv.org/pdf/2402.02499.pdf
 
 
 ### ✨ News
 - 2025.10.25: We release our new work [Robot Trajectron V2](https://github.com/mousecpn/Robot-TrajectronV2)!
+- 2026.07.11: We release our new work [Robot Trajectron V3](https://github.com/mousecpn/Robot-TrajectronV3)!
 
 
 ![image](https://github.com/mousecpn/Robot-Trajectron/assets/46233799/c07bf977-ab2d-438f-8187-898d5efacd13)
