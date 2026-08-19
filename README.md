@@ -4,6 +4,7 @@ The official implementation of Robot Trajectron, which is accepted by ICRA2024: 
 
 
 ### ✨ News
+- 2026.08.19: Our [Robot Trajectron V2](https://github.com/mousecpn/Robot-TrajectronV2) is accepted by IJRR.
 - 2025.10.25: We release our new work [Robot Trajectron V2](https://github.com/mousecpn/Robot-TrajectronV2)!
 - 2026.07.11: We release our new work [Robot Trajectron V3](https://github.com/mousecpn/Robot-TrajectronV3)!
 
